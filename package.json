@@ -1,0 +1,20 @@
+{
+  "name": "local-deployement-without-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.6.5",
+    "jszip": "^3.9.1",
+    "keythereum": "^1.2.0",
+    "password-generator": "^2.3.2",
+    "sweetalert": "^2.1.2"
+  }
+}
